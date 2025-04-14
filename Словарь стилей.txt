@@ -52,3 +52,9 @@
     </Style>
 
 </ResourceDictionary>
+
+<ResourceDictionary>
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Dictionary.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
